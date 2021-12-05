@@ -1,0 +1,10 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#my-player {
+	width: 60% !important;
+	margin: 2em auto;
+}
